@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;1,300&family=Roboto:wght@100&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: green;
+    color: #222222;
+    margin: 0;
+    overflow-x: hidden;
+}
+
